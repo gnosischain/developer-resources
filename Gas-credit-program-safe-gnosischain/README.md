@@ -14,4 +14,4 @@ The Safe{Core} Gas Credit Program is an initiative aimed at encouraging onchain 
 - Use Pimlico as your paymaster provider. We have a dedicated segment for how to integrate Pimlico Paymasters and Bundlers
 
 
-### Check out the FAQ Documentation [here].(https://safe-global.notion.site/Safe-Core-Gas-Credit-Program-FAQ-5340ed6c89694809b29e00c52b118045)
+### Check out the FAQ Documentation [here](https://safe-global.notion.site/Safe-Core-Gas-Credit-Program-FAQ-5340ed6c89694809b29e00c52b118045).
