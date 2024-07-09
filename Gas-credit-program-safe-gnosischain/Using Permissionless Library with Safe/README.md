@@ -2,7 +2,7 @@
 
 
 ### 1. Install permissionless library :
-```npm install permissionless```
+```npm install permissionless viem```
 
 Permissionless.js is a TypeScript library built on viem for building with ERC-4337 smart accounts, bundlers, paymasters, and user operations. The core focuses are avoiding provider lock-in, having no dependencies, maximum viem compatibility, and a small bundle size. permissionless.js also provides high-level support for the major ERC-4337 smart accounts, including Safe.
 
