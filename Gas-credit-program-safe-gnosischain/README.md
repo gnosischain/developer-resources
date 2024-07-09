@@ -15,3 +15,9 @@ The Safe{Core} Gas Credit Program is an initiative aimed at encouraging onchain 
 
 
 ### Check out the FAQ Documentation [here](https://safe-global.notion.site/Safe-Core-Gas-Credit-Program-FAQ-5340ed6c89694809b29e00c52b118045).
+## Check out Developer Resources here :
+1. [Pimlico Docs for Permissionless](https://docs.pimlico.io/permissionless)
+2. [How to use Verifying Paymaster with Pimlico Dashboard](https://docs.pimlico.io/permissionless/tutorial/tutorial-2)
+3. [Pimlico Tutorial Template](https://github.com/pimlicolabs/tutorial-template)
+
+#### If you have any questions you can ask us in [Discord Server](https://discord.com/invite/gnosischain).
