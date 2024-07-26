@@ -1,7 +1,6 @@
 import { Safe4337Pack } from '@safe-global/relay-kit'
-
 const SIGNER_ADDRESS = ""
-const SIGNER_PRIVATE_KEY = import.meta.env.SIGNER_PRIVATE_KEY;
+const SIGNER_PRIVATE_KEY = import.meta.env.SIGNER_PRIVATE_KEY
 const RPC_URL = 'https://gnosis.drpc.org'
 
 const safe4337Pack = await Safe4337Pack.init({
@@ -32,8 +31,10 @@ const transactions = [transaction1, transaction2]
 // Create the SafeOperation with all the transactions
 const safeOperation = await safe4337Pack.createTransaction({ transactions })
 
+// Sign the SafeOperation with the connected signer
 const signedSafeOperation = await safe4337Pack.signSafeOperation(safeOperation)
 
+// Submit the user operation
 const userOperationHash = await safe4337Pack.executeTransaction({
   executable: signedSafeOperation
 })
